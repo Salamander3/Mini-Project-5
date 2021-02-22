@@ -1,5 +1,8 @@
+//Imports the scanner utility
 import java.util.Scanner;
+//The main and only class
 class Main {
+  //The main methode that executes when ran
   public static void main(String[] args) 
   {
 
